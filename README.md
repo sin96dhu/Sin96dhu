@@ -4,7 +4,7 @@
 
 🚀 About Me
 
-I'm a passionate backend developer with 4 years of experience in PHP and its modern frameworks.
+I'm a passionate backend developer with 5 years of experience in PHP and its modern frameworks.
 I’ve contributed to government projects, focusing on stability, speed, and clean architecture.
 I'm currently expanding my skillset by learning Python.
 <li>🔥 Hardworking and curious</li>
