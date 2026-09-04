@@ -1,6 +1,6 @@
 🌟 Hi, I'm Prashant Sindhu
 💻 PHP Developer | 🐍 Python Learner | ⚡ Problem Solver
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00ffe1&size=24&center=true&vCenter=true&width=600&lines=PHP+Developer+with+4%2B+Years+Experience;I+Love+Building+Scalable+Applications;Always+Learning+New+Technologies;Problem+Solver+%7C+Tech+Enthusiast" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00ffe1&size=24&center=true&vCenter=true&width=600&lines=PHP+Developer+with+5%2B+Years+Experience;I+Love+Building+Scalable+Applications;Always+Learning+New+Technologies;Problem+Solver+%7C+Tech+Enthusiast" /> </p>
 
 🚀 About Me
 
